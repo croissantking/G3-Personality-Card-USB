@@ -8,6 +8,8 @@ I have a soft spot for the Beige G3 and was thrilled to find it has this 'secret
 
 Included in this repository are the schematic files I drew up in KiCad for my Whisper card.
 
+You can read about my journey here: https://68kmla.org/bb/index.php?threads/getting-g3-whisper-perch-usb-working.43681/
+
 So far, testing has shown the USB portion of the Personality card to be fully functional and reliable under Mac OS 9.2.2 and Mac OS X 10.2.8. It's seen as a PCI card in slot 'PERCH' and therefore relies on the same drivers (and has the same limitations) as a traditional USB OCHI PCI card would.
 
 Peter Baran
