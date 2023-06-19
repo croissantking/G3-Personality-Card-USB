@@ -1,4 +1,4 @@
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","Sim.Device","Sim.Pins"
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","Sim.Device","Sim.Pins",""
 "1","12","C53, C54, C55, C56, C90, C91, C97, C98, C99, C100, C101, C108","0.1uF","Device:C_Small","","~","","","",""
 "2","1","C106","110nF","Device:C_Small","","~","","","",""
 "3","2","C109, C110","47pF","Device:C_Small","","~","","","",""
