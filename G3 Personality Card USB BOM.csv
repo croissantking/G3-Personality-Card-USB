@@ -8,7 +8,7 @@
 "7","1","C116","47uF 16v",":C_Polarized_1","","~"
 "9","1","C129","10uF 16v","Device:C_Polarized","","~"
 "10","1","C131","1.1nf","Device:C_Small","","~"
-"14","1","F1","30R090","Device:Fuse","","~"
+"14","1","F1","30R090","Device:Fuse","650-RUEF090","https://mou.sr/3pjimBF"
 "15","1","G2","OSC48MHZ","Oscillator:IQD","449-LFSPXO019884REEL","https://mou.sr/3Podjuu"
 "16","1","J11","USB_A","Connector:USB_A",""," ~"
 "17","4","L18, L22, L24","FB","Device:L_Ferrite_Small","","~"
