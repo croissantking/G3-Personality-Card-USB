@@ -11,7 +11,7 @@
 "10","1","C131","1.1nf","Device:C_Small","","~","DNP","","",""
 "14","1","F1","30R090","Device:Fuse","","~","","","",""
 "15","1","G2","OSC48MHZ","Oscillator:ASCO","Oscillator:Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm","https://abracon.com/Oscillators/ASCO.pdf","","","",""
-"16","1","J1","USB_A","Connector:USB_A",""," ~","","","",""
+"16","1","J11","USB_A","Connector:USB_A",""," ~","","","",""
 "17","4","L18, L22, L24, L26","FB","Device:L_Ferrite_Small","","~","","","",""
 "18","1","LP1","FB Pack","Device:L_Pack04","","~","","","",""
 "19","3","Q7, Q8, Q9","MMBT3906","Transistor_BJT:MMBT3906","Package_TO_SOT_SMD:SOT-23","https://www.onsemi.com/pub/Collateral/2N3906-D.PDF","","","",""
