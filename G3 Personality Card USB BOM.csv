@@ -10,7 +10,7 @@
 "USB Port","1","J11","","","649-73725-0110BLF","https://mou.sr/3Js0vzr"
 "Ferrite Bead","3","L18, L22, L24","?","0805","81-BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
 "Ferrite Bead","2","LP1","?","1008","81-BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
-"Resistor","2","R5, R61","15K","0603","","~"
+"Resistor","2","R5, R61","15K","0603","ASC0603-15KFT5","https://mou.sr/3Ps5TX4"
 "Resistor","2","R43, R50","33","0805","755-SFR10EZPF33R0","https://mou.sr/3JLzkjt"
 "Resistor","1","R62","1M","0603","","~"
 "Resistor","3","R146, R147, R148","10K","0603","","~"
