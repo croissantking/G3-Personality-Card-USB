@@ -13,6 +13,6 @@
 "Resistor","2","R5, R61","15K","0603","ASC0603-15KFT5","https://mou.sr/3Ps5TX4"
 "Resistor","2","R43, R50","33","0805","755-SFR10EZPF33R0","https://mou.sr/3JLzkjt"
 "Resistor","1","R62","1M","0603","603-RC0603FR-071ML","https://mou.sr/3XqpfxW"
-"Resistor","3","R146, R147, R148","10K","0603","603-AC0603JR-1310KL","<a href="https://mou.sr/42UXSNk"></a>"
+"Resistor","3","R146, R147, R148","10K","0603","603-AC0603JR-1310KL","=HYPERLINK("http://stackoverflow.com", "so.com")"
 "Resistor","1","R75","10K","0805","603-RC0805FR-0710KL","https://mou.sr/3CCjgfT"
 "IC","1","U6","CMD-USB0670/OPTi FireLink 82C861","LQFP-100","",""
