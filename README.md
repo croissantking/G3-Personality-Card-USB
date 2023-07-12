@@ -16,6 +16,8 @@ So far, testing has shown the USB portion of the Personality card to be fully fu
 
 Peter Baran (@croissantking)
 
+--
+
 Update History:
 
 24/5/2023 Uploaded schematic Rev 1, PDF and BOM.
