@@ -8,7 +8,7 @@
     (title "Power Macintosh G3 (Beige) Whisper Personality Card USB Mod")
     (date "2023-07-12")
     (rev "2")
-    (company "Schematic created by @croissantking on the 68kMLA forums with invaluable help from @phipli")
+    (company "Schematic by @croissantking on the 68kMLA forums with invaluable help from @phipli")
   )
 
   (lib_symbols
@@ -3785,7 +3785,7 @@
     (property "Footprint" "Package_QFP:LQFP-100_14x14mm_P0.5mm" (at 120.65 130.81 90)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm3s6911.pdf" (at -25.4 64.77 90)
+    (property "Datasheet" "http://www.bitsavers.org/components/cmd/MAN-000670-000_USB0670_673_PCI-USB_ASIC_Rev_1.8_199903.pdf" (at -25.4 64.77 90)
       (effects (font (size 0 0)) hide)
     )
     (pin "1" (uuid 6168fa21-d3af-46da-8e2c-2d77c180b30b))
