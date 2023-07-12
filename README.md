@@ -14,6 +14,8 @@ Hackaday also wrote an article about this project: https://hackaday.com/2023/04/
 
 So far, testing has shown the USB portion of the Personality card to be fully functional and reliable under Mac OS 9.2.2 and Mac OS X 10.2.8. It's seen as a PCI card in slot 'PERCH' and therefore relies on the same drivers (and has the same limitations) as a traditional USB OCHI PCI card would.
 
+The only chip I have successfully tested is the CMD0670B-400. I have tried the mod with the supposedly pin compatible OHCI Firelink 82c861 chip, but it was unsuccessful.
+
 Peter Baran (@croissantking)
 
 --
