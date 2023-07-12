@@ -8,7 +8,7 @@
     (title "Power Macintosh G3 (Beige) Whisper Personality Card USB Mod")
     (date "2023-07-12")
     (rev "2")
-    (company "Schematic created by croissantking on the 68kmla forums, with invaluable help from phipli")
+    (company "Schematic created by @croissantking on the 68kMLA forums with invaluable help from @phipli")
   )
 
   (lib_symbols
