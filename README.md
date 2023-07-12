@@ -16,3 +16,7 @@ So far, testing has shown the USB portion of the Personality card to be fully fu
 
 Peter Baran
 24/5/2023
+
+Update History:
+
+12/07/2023 Updated schematic to Rev 2. Corrected some minor errors and made it clearer where the different circuits are.
