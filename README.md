@@ -22,4 +22,4 @@ Update History:
 
 24/5/2023 Uploaded schematic Rev 1, PDF and BOM.
 
-12/07/2023 Updated schematic to Rev 2. Corrected some minor errors and made it clearer where the different circuits are.
+12/7/2023 Updated schematic to Rev 2. Corrected some minor errors and made it clearer where the different circuits are.
