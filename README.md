@@ -14,7 +14,7 @@ Hackaday also wrote an article about this project: https://hackaday.com/2023/04/
 
 So far, testing has shown the USB portion of the Personality card to be fully functional and reliable under Mac OS 9.2.2 and Mac OS X 10.2.8. It's seen as a PCI card in slot 'PERCH' and therefore relies on the same drivers (and has the same limitations) as a traditional USB OCHI PCI card would.
 
-The only chip I have successfully tested is the CMD0670B-400. I have tried the mod with the supposedly pin compatible OHCI Firelink 82c861 chip, but it was unsuccessful.
+I have successfully tested a CMD0670B-400 and an Opti Firelink 82c861. To use the Firelink, a small adjustment to the published schematics is required when populating the board: PWRFLT1 must be tied to +5V. This can be achieved by bridging U9 pin 16 to pin 2 with a 10K resistor. The Firelink will fail to initialize if PWRFLT1 is left floating, which is interestingly not an issue with the 0670.
 
 Peter Baran (@croissantking)
 
@@ -25,3 +25,5 @@ Update History:
 24/5/2023 Uploaded schematic Rev 1, PDF and BOM.
 
 12/7/2023 Updated schematic to Rev 2. Corrected some minor errors and made it clearer where the different circuits are.
+
+3/7/2024 Updated the readme to explain what's needed to get the Firelink chip to work.
