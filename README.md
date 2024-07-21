@@ -21,6 +21,7 @@ One of the more difficult tasks of the modification is creating an opening on th
 Future goals:
 
 – Get the the Unitrode power supply section working, which is more reliable than a fuse.
+
 – Get the USB keyboard power on circuitry working.
 
 Peter Baran (@croissantking)
