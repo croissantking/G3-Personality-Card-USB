@@ -1,4 +1,4 @@
-# G3-Personality-Card-USB
+# G3 Personality Card USB
 
 **Outline**
 <br><br>
