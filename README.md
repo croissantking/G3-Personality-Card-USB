@@ -23,7 +23,7 @@ So far, testing has shown the USB portion of the Personality card to be fully fu
 <img src="https://github.com/user-attachments/assets/df3014ed-af30-4027-9707-704015e1fdd0" width=60% height=60%>
 <br><br>
 I have successfully tested a CMD0670B-400 and an Opti Firelink 82c861. To use the Firelink, a small adjustment to the published schematics is required when populating the board: PWRFLT1 must be tied to +5V. This can be achieved by bridging U9 pin 16 to pin 2 with a 10K resistor. The Firelink will fail to initialize if PWRFLT1 is left floating, which is interestingly not an issue with the 0670.
-
+<br><br>
 One of the more difficult tasks of the mod is creating an opening on the metal backplate to allow USB devices to plug in. My method is to mark out the opening and then stitch-drill and file from the inside.
 
 <img src="https://github.com/user-attachments/assets/34577bb2-c02f-48b2-8956-6d64bfce31a1" width=50% height=50%>
