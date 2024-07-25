@@ -26,10 +26,9 @@ I have successfully tested a CMD0670B-400 and an OPTi FireLink 82c861. To use th
 <br><br>
 One of the more difficult tasks of the mod is creating an opening on the metal backplate to allow USB devices to plug in. My method is to mark out the opening and then stitch-drill and file from the inside.
 <br><br>
-<img src="https://github.com/user-attachments/assets/34577bb2-c02f-48b2-8956-6d64bfce31a1" width=50% height=50%>
-<br><br><br><br>
-**Startup Circuit**
-A startup circuit exists as part of the USB footprint. It's optional, but if populated you will be able to start up your Beige G3 with the power key on an Apple USB keyboard. This is now tested and confirmed working.<br><br><br><br>
+<img src="https://github.com/user-attachments/assets/34577bb2-c02f-48b2-8956-6d64bfce31a1" width=50% height=50%><br><br>
+**Startup Circuit**<br><br>
+A startup circuit exists as part of the USB footprint. It's optional, but if populated you will be able to start up your Beige G3 with the power key on an Apple USB keyboard. This is tested and confirmed working.<br><br>
 **Future goals**
 <br><br>
 – Get the the Unitrode power supply section working, which is more reliable than a fuse.<br>
