@@ -2,7 +2,7 @@
 
 **Outline**
 <br><br>
-Various Personality cards that are installed in the Beige G3's PERCH slot have footprints for a single USB 1.0/1.1 socket and supporting circuitry, similar to that found on USB PCI cards with a Firelink chip. This USB footprint is found on later revisions of the Whisper and Wings A/V cards. The rare Bordeaux DVD Video card has also been seen with the footprint and supports either a single or dual USB port header.
+Various Personality cards that are installed in the Beige G3's PERCH slot have footprints for a single USB 1.0/1.1 socket and supporting circuitry, similar to that found on USB PCI cards with a Firelink chip. This footprint is found on later revisions of the Whisper and Wings A/V cards. The rare Bordeaux DVD Video card has also been seen with the footprint and supports either a single or dual USB port header.
 <br><br>
 <img src="https://github.com/user-attachments/assets/53ae1407-8808-47af-b2a3-14ff611aa877" width=50% height=50%>
 <br><br>
