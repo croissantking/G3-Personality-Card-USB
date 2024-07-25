@@ -3024,7 +3024,7 @@
   (netclass_flag "" (length 2.54) (shape round) (at 162.56 175.26 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ae2d7137-c562-40e2-ba01-ad2a4d5db032)
-    (property "Netclass" "PERCH #178/VDD" (at 156.21 180.34 0)
+    (property "Netclass" "PERCH #178/+5VSB" (at 154.94 180.34 0)
       (effects (font (size 1 1) italic) (justify left))
     )
   )
@@ -5004,7 +5004,7 @@
   (symbol (lib_id "Analog_ADC:LM393") (at 243.84 151.13 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9a3b2310-39a9-4984-805e-923377a8a20a)
-    (property "Reference" "U1" (at 248.92 153.67 90)
+    (property "Reference" "U20" (at 248.92 153.67 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LM393" (at 248.92 151.13 90)
@@ -5027,7 +5027,7 @@
     (instances
       (project "G3 Whisper Card USB"
         (path "/f6767184-bfed-4427-86eb-57243872235b"
-          (reference "U1") (unit 1)
+          (reference "U20") (unit 1)
         )
       )
     )
