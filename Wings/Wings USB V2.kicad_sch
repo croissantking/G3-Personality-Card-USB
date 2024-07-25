@@ -3041,7 +3041,7 @@
   (netclass_flag "" (length 2.54) (shape round) (at 162.56 175.26 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ae2d7137-c562-40e2-ba01-ad2a4d5db032)
-    (property "Netclass" "PERCH #178/VDD" (at 156.21 180.34 0)
+    (property "Netclass" "PERCH #178/+5VSB" (at 154.94 180.34 0)
       (effects (font (size 1 1) italic) (justify left))
     )
   )
