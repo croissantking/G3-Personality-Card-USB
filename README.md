@@ -31,7 +31,7 @@ One of the more difficult tasks of the mod is creating an opening on the metal b
 A startup circuit exists as part of the USB footprint. It's optional, but if populated you will be able to start up your Beige G3 with the power key on an Apple USB keyboard. This is tested and confirmed working.<br><br>
 **Future goals**
 <br><br>
-– Get the the Unitrode power supply section working, which is more reliable than a fuse.<br>
+– Get the the Unitrode power supply section working, which is a more reliable alternative than a fuse.<br>
 – Draw up schematics for a Bordeaux card.
 <br><br><br>
 **Peter Baran (@croissantking)**
