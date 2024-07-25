@@ -2,7 +2,7 @@
 
 **Outline**
 <br><br>
-Various Personality cards that are installed in the Beige G3's PERCH slot have footprints for a single USB 1.0/1.1 socket and supporting circuitry, similar to that found on USB PCI cards with a Firelink chip. This USB footprint is found on the second revision of the Whisper and Wings cards. The rare Bordeaux card has also been seen with the footprint and supports a dual USB port header.
+Various Personality cards that are installed in the Beige G3's PERCH slot have footprints for a single USB 1.0/1.1 socket and supporting circuitry, similar to that found on USB PCI cards with a Firelink chip. This USB footprint is found on the second revision of the Whisper and Wings cards. The rare Bordeaux card has also been seen with the footprint and supports either a single or dual USB port header.
 <br><br>
 <img src="https://github.com/user-attachments/assets/53ae1407-8808-47af-b2a3-14ff611aa877" width=50% height=50%>
 <br><br>
@@ -28,10 +28,12 @@ One of the more difficult tasks of the mod is creating an opening on the metal b
 <br><br>
 <img src="https://github.com/user-attachments/assets/34577bb2-c02f-48b2-8956-6d64bfce31a1" width=50% height=50%>
 <br><br>
+**Startup Circuit**
+A startup circuit exists as part of the USB footprint. It's optional, but if populated you will be able to start up your Beige G3 with the power key on an Apple USB keyboard. This is now tested and confirmed working.
 **Future goals**
 <br><br>
 – Get the the Unitrode power supply section working, which is more reliable than a fuse.<br>
-– Get the USB keyboard power on circuitry working.
+– Draw up schematics for a Bordeaux card.
 <br><br><br>
 **Peter Baran (@croissantking)**
 
@@ -46,3 +48,5 @@ One of the more difficult tasks of the mod is creating an opening on the metal b
 3/7/2024 Updated the readme to explain what's needed to get the Firelink chip to work.
 <br><br>
 21/7/2024 Updated the Whisper schematic to V3, which includes layout improvements as well as worked out values for the Unitrode and power-on circuits, although they are not yet tested. Also uploaded a brand new Wings V1 schematic. Updated the readme accordingly.
+<br><br>
+25/7/2024 Uploaded Whisper V4 and Wings V2 schematics, which includes corrections to the startup circuit, now tested and working. 
