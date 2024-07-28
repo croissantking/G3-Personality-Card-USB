@@ -59,3 +59,5 @@ A startup circuit exists as part of the USB footprint. It's optional, but if pop
 21/7/2024 Updated the Whisper schematic to V3, which includes layout improvements as well as worked out values for the Unitrode and power-on circuits, although they are not yet tested. Also uploaded a brand new Wings V1 schematic. Updated the readme accordingly.
 <br><br>
 25/7/2024 Uploaded Whisper V4 and Wings V2 schematics, which includes corrections to the startup circuit, now tested and working. 
+<br><br>
+28/7/2024 Added a new USB BOM for the Wings card, and startup circuit BOMs for both cards. Added links to Mouser projects in this readme.
