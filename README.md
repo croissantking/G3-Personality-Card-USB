@@ -29,6 +29,16 @@ One of the more difficult tasks of the mod is creating an opening on the metal b
 <img src="https://github.com/user-attachments/assets/34577bb2-c02f-48b2-8956-6d64bfce31a1" width=50% height=50%><br><br>
 **Startup Circuit**<br><br>
 A startup circuit exists as part of the USB footprint. It's optional, but if populated you will be able to start up your Beige G3 with the power key on an Apple USB keyboard. This is tested and confirmed working.<br><br>
+**Mouser Project Links**
+<br><br>
+[Whisper USB Mod](https://www.mouser.co.uk/api/CrossDomain/GetContext?syncDomains=www&returnUrl=https%3a%2f%2fwww.mouser.com%2fProjectManager%2fProjectDetail.aspx%3fAccessID%3ded20c4f711&async=False&setPrefSub=False&clearPrefSub=False)
+<br>
+[Whisper Startup Circuit](https://www.mouser.co.uk/api/CrossDomain/GetContext?syncDomains=www&returnUrl=https%3a%2f%2fwww.mouser.com%2fProjectManager%2fProjectDetail.aspx%3fAccessID%3d3795cb82c2&async=False&setPrefSub=False&clearPrefSub=False)
+<br><br>
+[Wings USB Mod](https://www.mouser.co.uk/api/CrossDomain/GetContext?syncDomains=www&returnUrl=https%3a%2f%2fwww.mouser.com%2fProjectManager%2fProjectDetail.aspx%3fAccessID%3d3c8a106edf&async=False&setPrefSub=False&clearPrefSub=False)
+<br>
+[Wings Startup Circuit](https://www.mouser.co.uk/api/CrossDomain/GetContext?syncDomains=www&returnUrl=https%3a%2f%2fwww.mouser.com%2fProjectManager%2fProjectDetail.aspx%3fAccessID%3d86d3ab9abc&async=False&setPrefSub=False&clearPrefSub=False)
+<br><br>
 **Future goals**
 <br><br>
 – Get the the Unitrode power supply section working, which is a more reliable alternative than a fuse.<br>
