@@ -20,15 +20,15 @@ Hackaday also wrote an article about this project: https://hackaday.com/2023/04/
 <br><br>
 Included in this repository are KiCad schematic files and BOMs for Whisper and Wings cards. The easiest way to get started is to follow the links below to order the Mouser projects I've created, then assemble your card using the BOM to help you. You will need a donor PCI card to take the USB controller chip from.
 <br><br>
-So far, testing has shown the USB interface to be fully functional and reliable under Mac OS 9.2.2 and Mac OS X 10.2.8. It's seen as a PCI card in slot 'PERCH' and therefore relies on the same drivers as a traditional USB OHCI PCI card would.
-<br><br>
-<img src="https://github.com/user-attachments/assets/df3014ed-af30-4027-9707-704015e1fdd0" width=60% height=60%>
-<br><br>
-I have successfully tested a CMD0670B-400 and an OPTi FireLink 82c861. To use the Firelink, a small adjustment to the published schematics is required when populating the board: PWRFLT1 must be tied to +5V. This can be achieved by bridging U9 pin 16 to pin 2 with a 10K resistor. The Firelink will fail to initialize if PWRFLT1 is left floating, which is interestingly not an issue with the 0670.
+You can install either a CMD0670B-400 or an OPTi FireLink 82c861 chip. To use the Firelink, a small adjustment to the published schematics is required when populating the board: PWRFLT1 must be tied to +5V. This can be achieved by bridging U9 pin 16 to pin 2 with a 10K resistor. The Firelink will fail to initialize if PWRFLT1 is left floating, which is not an issue with the 0670.
 <br><br>
 One of the more difficult tasks of the mod is creating an opening on the metal backplate to allow USB devices to plug in. My method is to mark out the opening and then stitch-drill and file from the inside.
 <br><br>
 <img src="https://github.com/user-attachments/assets/34577bb2-c02f-48b2-8956-6d64bfce31a1" width=50% height=50%><br><br>
+So far, testing has shown the USB interface to be fully functional and reliable under Mac OS 9.2.2 and Mac OS X 10.2.8. It's seen as a PCI card in slot 'PERCH' and therefore relies on the same drivers as a traditional USB OHCI PCI card would.
+<br><br>
+<img src="https://github.com/user-attachments/assets/df3014ed-af30-4027-9707-704015e1fdd0" width=60% height=60%>
+<br><br>
 **Startup Circuit**<br><br>
 A startup circuit exists as part of the USB footprint. It's optional, but if populated you will be able to start up your Beige G3 with the power key on an Apple USB keyboard. This is tested and confirmed working.<br><br>
 **Mouser Project Links**
