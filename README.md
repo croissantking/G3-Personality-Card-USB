@@ -18,9 +18,9 @@ Hackaday also wrote an article about this project: https://hackaday.com/2023/04/
 <br><br>
 **Modification**
 <br><br>
-Included in this repository are KiCad schematic files for Whisper and Wings cards.
+Included in this repository are KiCad schematic files and BOMs for Whisper and Wings cards. The easiest way to get started is to follow the links below to order the Mouser projects I've created, then assemble your card using the BOM to help you. You will need a donor PCI card to take the USB controller chip from.
 <br><br>
-So far, testing has shown the USB interface to be fully functional and reliable under Mac OS 9.2.2 and Mac OS X 10.2.8. It's seen as a PCI card in slot 'PERCH' and therefore relies on the same drivers (and has the same limitations) as a traditional USB OHCI PCI card would.
+So far, testing has shown the USB interface to be fully functional and reliable under Mac OS 9.2.2 and Mac OS X 10.2.8. It's seen as a PCI card in slot 'PERCH' and therefore relies on the same drivers as a traditional USB OHCI PCI card would.
 <br><br>
 <img src="https://github.com/user-attachments/assets/df3014ed-af30-4027-9707-704015e1fdd0" width=60% height=60%>
 <br><br>
