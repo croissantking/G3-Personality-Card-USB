@@ -1,7 +1,5 @@
 "Item","Qty","Reference(s)","Value","Size (Imperial)","Mouser P/N","URL"
-
-"Capacitor","14","C236, C237, C238, C240, C241, C242, C243, C244, C245, C246, C247, C248, C249, C265","0.1uF","0805","",""
-
+"Capacitor","14","C236, C237, C238, C240, C241, C242, C243, C244, C245, C246, C247, C248, C249, C265","0.1uF","0805","581-08055C104J","https://mou.sr/3LFR1Bc"
 "Capacitor","1","C286","0.1uF","0603","581-06035G104Z","https://mou.sr/44embap"
 "Capacitor","2","C252, C253","47pF","0603","581-06035A470J","https://mou.sr/3XnkNjh"
 "Capacitor","2","C256, C285","470pF","0603","581-06035A471J","https://mou.sr/42VHwnP"
@@ -11,18 +9,11 @@
 "Fuse","1","F2","30R090","","650-RUEF090","https://mou.sr/3pjimBF"
 "Oscillator","1","G7/G8","OSC48MHZ","7 x 5mm","449-LFSPXO019884REEL","https://mou.sr/3Podjuu"
 "USB Port","1","J13","","","649-73725-01A0BLF","https://mou.sr/3rba3Zz"
-
-"Ferrite Bead","1","L54","?","1206","81-BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
-
+"Ferrite Bead","1","L54","?","1206","875-HI1206P121R-10","https://mou.sr/46vXDMo"
 "Ferrite Bead","2","L55, L57","?","0805","81-BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
-"Ferrite Bead","2","LP1 (Note: there are 4 sets of pads but we only need to bridge the top 2)","?","1008","81-BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
-
-"Resistor","2","R188, R189","15K","0805","",""
-
+"Ferrite Bead","2","LP1 (Note: there are 4 sets of pads but we only need to bridge the top 2)","?","0805","81-BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
+"Resistor","2","R188, R189","15K","0805","652-CR0805JW-153ELF","https://mou.sr/3YiDvLD"
 "Resistor","2","R182, R183","33","0805","755-SFR10EZPF33R0","https://mou.sr/3JLzkjt"
 "Resistor","1","R204","1M","0603","603-RC0603FR-071ML","https://mou.sr/3XqpfxW"
-
-"Resistor","3","R216, R217, R218","10K","0805","",""
-
-"Resistor","1","R194","10K","0805","603-RC0805FR-0710KL","https://mou.sr/3CCjgfT"
+"Resistor","4","R194, R216, R217, R218","10K","0805","603-RC0805FR-0710KL","https://mou.sr/3CCjgfT"
 "IC","1","U18","CMD 0670B-400 or Firelink 82c861","LQFP-100","",""
