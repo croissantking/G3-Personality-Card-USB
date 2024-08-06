@@ -22,6 +22,8 @@ Included in this repository are KiCad schematic files and BOMs for Whisper and W
 <br><br>
 You can install either a CMD0670B-400 or an OPTi FireLink 82c861 chip. To use the Firelink, a small adjustment to the published schematics is required when populating the board: PWRFLT1 must be tied to +5V. This can be achieved by bridging U9 pin 16 to pin 2 with a 10K resistor. The Firelink will fail to initialize if PWRFLT1 is left floating, which is not an issue with the 0670.
 <br><br>
+<img src="https://github.com/user-attachments/assets/8be04126-6150-475b-994c-ad3643a4bb17" width=60% height=60%>
+<br><br>
 One of the more difficult tasks of the mod is creating an opening on the metal backplate to allow USB devices to plug in. My method is to mark out the opening and then stitch-drill and file from the inside.
 <br><br>
 <img src="https://github.com/user-attachments/assets/34577bb2-c02f-48b2-8956-6d64bfce31a1" width=50% height=50%><br><br>
