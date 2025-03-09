@@ -66,7 +66,7 @@ Hackaday also wrote an article about this project: https://hackaday.com/2023/04/
 <br><br>
 <b>Future goals</b>
 <br><br>
-– Get the the UCC3912 electronic circuit breaker section working, this is the chip which would sit at U9/U19, and is a more reliable alternative than a fuse.<br>
+– Get the the UCC3912 circuit breaker section working.<br>
 – Draw up schematics for a Bordeaux card with an option for dual ports.
 <br><br><br>
 <b>Peter Baran (@croissantking)</b>
