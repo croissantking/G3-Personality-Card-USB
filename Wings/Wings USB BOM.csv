@@ -19,7 +19,7 @@
 "Resistor","1","R194","680","0805","603-RC0805FR-13680RL","https://mou.sr/3DgQXYl"
 "Resistor","1","R195","2K","0805","603-RC0805FR-7W2KL","https://mou.sr/3DfO0Hz"
 "IC","1","U18","0670B-400 or 82C861","LQFP-100","",""
-"Schottky Diode","1","D7",", 1A If, 600mV Vf, 30V Vrrm","DO-214AA","863-MBRS130T3G","https://mou.sr/4he58uV"
+"Schottky Diode","1","D7","1A If, 600mV Vf, 30V Vrrm","DO-214AA","863-MBRS130T3G","https://mou.sr/4he58uV"
 "Capacitor","1","C288","47nF","0603","581-06035D473K","https://mou.sr/4c1Fkjk"
 "Transistor","2","Q26, Q27","NPN","SOT-23-3","583-MMBT3904","https://mou.sr/46mip0E"
 "Transistor","1","Q25","PNP","SOT-23-3","771-PMBT3906-T/R","https://mou.sr/3YtByMa"
