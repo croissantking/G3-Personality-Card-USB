@@ -8,6 +8,8 @@ Many Beige G3s feature an unused footprint – on their Personality cards – fo
 Interestingly, <a href="https://www.journaldulapin.com/2015/01/12/a-prototype-of-power-macintosh-g3-with-usb/">prototype Beige G3 machines exist</a> with onboard USB on their Personality card, but no production machines ever shipped with it installed. It's unclear whether Apple at one point planned for built-in USB on the Beige, or if the footprint was meant solely for development purposes.
 <br><br>
 As a longtime fan of the Beige G3, I was thrilled to discover this 'secret' feature. Given nobody else had tried to get it working (that I knew of) I decided to take on the challenge. I initially soldered in a CMD 0670 chip taken from a donor PCI card, and, with the help of other forum members at 68kMLA, I worked out the values of the capacitors and resistors that are required to get the USB circuitry working. Other key components included a 5V oscillator, a polyfuse and of course the USB port itself.
+<br><br>
+Here are a couple of modded cards:
 
 <img src="https://github.com/user-attachments/assets/53ae1407-8808-47af-b2a3-14ff611aa877">
 <br><br>
@@ -20,7 +22,7 @@ Included in this repository are KiCad schematic files and BOMs for Whisper and W
     <th></th>
     <th>PDF</th>
     <th>BOM</th>
-    <th>Mouser Cart</th>
+    <th>Mouser Project</th>
   </tr></thead>
 <tbody>
   <tr>
