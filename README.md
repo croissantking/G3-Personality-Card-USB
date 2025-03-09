@@ -9,7 +9,7 @@ Interestingly, <a href="https://www.journaldulapin.com/2015/01/12/a-prototype-of
 <br><br>
 As a longtime fan of the Beige G3, I was thrilled to discover this 'secret' feature. Given nobody else had tried to get it working (that I knew of) I decided to take on the challenge. I initially soldered in a CMD 0670 chip taken from a donor PCI card, and, with the help of other forum members at 68kMLA, I worked out the values of the capacitors and resistors that are required to get the USB circuitry working. Other key components included a 5V oscillator, a polyfuse and of course the USB port itself.
 
-<img src="https://github.com/user-attachments/assets/53ae1407-8808-47af-b2a3-14ff611aa877" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/53ae1407-8808-47af-b2a3-14ff611aa877">
 <br><br>
 <b>Modification</b>
 <br><br>
@@ -39,15 +39,15 @@ Included in this repository are KiCad schematic files and BOMs for Whisper and W
 <br>
 You can install either a CMD 0670B-400 or an OPTi FireLink 82C861 chip. To use the Firelink, a small bodge is required when populating the board: PWRFLT1 must be tied to +5V. This can be achieved by locating the IC footprint for U9 (Whisper) or U19 (Wings A/V) and bridging pins 15 and 16 with a 10K resistor. The Firelink will fail to initialize if PWRFLT1 is left floating, which is not an issue with the 0670.
 <br><br>
-<img src="https://github.com/user-attachments/assets/67582955-f98a-45d6-b35d-814bbac82cdf" width=60% height=60%>
+<img src="https://github.com/user-attachments/assets/67582955-f98a-45d6-b35d-814bbac82cdf">
 <br><br>
 One of the more difficult tasks of the mod is creating an opening on the metal backplate to allow USB devices to plug in. My method is to mark out the opening and then stitch-drill and file from the inside.
 <br><br>
-<img src="https://github.com/user-attachments/assets/5f7984d2-c3b9-444d-9f46-8d9881c3f743" width=50% height=50%>
-<img src="https://github.com/user-attachments/assets/34577bb2-c02f-48b2-8956-6d64bfce31a1" width=50% height=50%><br><br>
+<img src="https://github.com/user-attachments/assets/5f7984d2-c3b9-444d-9f46-8d9881c3f743">
+<img src="https://github.com/user-attachments/assets/34577bb2-c02f-48b2-8956-6d64bfce31a1"><br><br>
 So far, testing has shown the USB interface to be fully functional and reliable under Mac OS 9.2.2 and Mac OS X 10.2.8. It's seen as a PCI card in slot 'PERCH' and therefore relies on the same drivers as a traditional USB OHCI PCI card would.
 <br><br>
-<img src="https://github.com/user-attachments/assets/df3014ed-af30-4027-9707-704015e1fdd0" width=60% height=60%>
+<img src="https://github.com/user-attachments/assets/df3014ed-af30-4027-9707-704015e1fdd0">
 <br><br>
 <b>Startup Circuit</b>
 <br><br>
