@@ -17,7 +17,7 @@
 "Resistor","1","R75","680","0805","603-RC0805FR-13680RL","https://mou.sr/3DgQXYl"
 "Resistor","1","R76","2K","0603","603-RC0603DR-072KL","https://mou.sr/4izl6Rp"
 "IC","1","U6","CMD 0670B-400 or Firelink 82c861","LQFP-100","",""
-"Schottky Diode","1","D2","330mV Forward Voltage","DO214AC-2","750-CDBA140SL-HF","https://mou.sr/3LI1zQr"
+"Schottky Diode","1","D2","600mV Forward Voltage","DO-214AA","863-MBRS130T3G","https://mou.sr/4he58uV"
 "Capacitor","1","C157","47nF","0603","581-06035D473K","https://mou.sr/4c1Fkjk"
 "Transistor","2","Q8, Q9","NPN","SOT-23-3","583-MMBT3904","https://mou.sr/46mip0E"
 "Transistor","1","Q7","PNP","SOT-23-3","771-PMBT3906-T/R","https://mou.sr/3YtByMa"
