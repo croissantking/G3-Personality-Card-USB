@@ -54,7 +54,11 @@ So far, testing has shown the USB interface to be fully functional and reliable 
 <b>Startup Circuit</b>
 <br><br>
 A startup circuit exists as part of the USB footprint. It's optional, but if populated you will be able to start up your Beige G3 with the power key on an Apple USB keyboard. It's a really neat feature!<br><br>
-  <b>Further Reading</b>
+<b>Power Supply – Fuse or Circuit Breaker?</b>
+<br><br>
+A USB port provides a +5V power supply to connected devices, which must be protected from overcurrent. The footprint allows for either a fuse or a UCC3912 electronic circuit breaker. I chose the simpler and more cost-effective fuse. I did attempt to use the circuit breaker but couldn’t get it to work.
+<br><br>
+<b>Further Reading</b>
 <br><br>
 You can read about my journey here: https://68kmla.org/bb/index.php?threads/getting-g3-whisper-perch-usb-working.43681/
 <br><br>
@@ -62,7 +66,7 @@ Hackaday also wrote an article about this project: https://hackaday.com/2023/04/
 <br><br>
 <b>Future goals</b>
 <br><br>
-– Get the the Unitrode power supply section working, this is the chip which would sit at U9/U19, and is a more reliable alternative than a fuse.<br>
+– Get the the UCC3912 electronic circuit breaker section working, this is the chip which would sit at U9/U19, and is a more reliable alternative than a fuse.<br>
 – Draw up schematics for a Bordeaux card with an option for dual ports.
 <br><br><br>
 <b>Peter Baran (@croissantking)</b>
