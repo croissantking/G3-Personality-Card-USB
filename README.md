@@ -20,7 +20,7 @@ Included in this repository are KiCad schematic files and BOMs for Whisper and W
 <table><thead>
   <tr>
     <th></th>
-    <th>PDF</th>
+    <th>Schematics</th>
     <th>BOM</th>
     <th>Mouser Project</th>
   </tr></thead>
