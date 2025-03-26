@@ -7,7 +7,7 @@ Many Beige G3s feature an unused footprint – on their Personality cards – fo
 <br><br>
 Interestingly, <a href="https://www.journaldulapin.com/2015/01/12/a-prototype-of-power-macintosh-g3-with-usb/">prototype Beige G3 machines exist</a> with onboard USB on their Personality card, but no production machines ever shipped with it installed. It's unclear whether Apple at one point planned for built-in USB on the Beige, or if the footprint was meant solely for development purposes.
 <br><br>
-As a longtime fan of the Beige G3, I was thrilled to discover this 'secret' feature. Given nobody else had tried to get it working (that I knew of) I decided to take on the challenge. I initially soldered in a CMD 0670 chip taken from a donor PCI card, and, with the help of other forum members at 68kMLA, I worked out the values of the capacitors and resistors that are required to get the USB circuitry working. Other key components included a 5V oscillator, a polyfuse and of course the USB port itself.
+As a longtime fan of the Beige G3, I was thrilled to discover this 'secret' feature. Given nobody else had tried to get it working (at least that I knew of) I decided to take on the challenge. I initially soldered in a CMD 0670 chip taken from a donor PCI card, then worked out the values of the capacitors and resistors that are required to get the USB circuitry working. Other key components included a 5V oscillator, a polyfuse and of course the USB port itself.
 <br><br>
 Here are a couple of modded cards:
 
@@ -56,7 +56,7 @@ So far, testing has shown the USB interface to be fully functional and reliable 
 A startup circuit exists as part of the USB footprint. It's optional, but if populated you will be able to start up your Beige G3 with the power key on an Apple USB keyboard. It's a really neat feature!<br><br>
 <b>Power Supply – Fuse or Circuit Breaker?</b>
 <br><br>
-A USB port provides a +5V power supply to connected devices, which must be protected from overcurrent. The footprint allows for either a fuse (simpler, cheaper) or a UCC3912 electronic circuit breaker (more expensive, more reliable).  I opted for a resettable polyfuse but also experimented with the circuit breaker, though I couldn’t get it to work.
+A USB port provides a +5V power supply to connected devices, which must be protected from overcurrent. The footprint allows for either a fuse (simpler, cheaper) or a UCC3912 electronic circuit breaker (more expensive, more reliable).  I opted for a resettable polyfuse but also experimented with the circuit breaker, though I couldn’t get it to fully work.
 <br><br>
 <b>Further Reading</b>
 <br><br>
@@ -71,7 +71,7 @@ Hackaday also wrote an article about this project: https://hackaday.com/2023/04/
 <br><br>
 <b>Acknowledgements</b>
 <br><br>
-Thanks to 68kMLA's @phipli for his help in working out values of key components on the USB interface when I was still very new at this. Without his help, I might not have got this off the ground.
+Thanks to 68kMLA's @phipli for his help in working out values of key components on the USB interface when I was still very new at this. Without support, I might not have got this off the ground.
 <br><br><br>
 <b>Peter Baran (@croissantking)</b>
 
