@@ -68,6 +68,10 @@ Hackaday also wrote an article about this project: https://hackaday.com/2023/04/
 <br><br>
 – Get the the UCC3912 circuit breaker section working.<br>
 – Draw up schematics for a Bordeaux card with an option for dual ports.
+<br><br>
+<b>Acknowledgements</b>
+<br><br>
+Thanks to 68kMLA's @phipli for his help in working out values of key components on the USB interface when I was still very new at this. Without his help, I might not have got this off the ground.
 <br><br><br>
 <b>Peter Baran (@croissantking)</b>
 
