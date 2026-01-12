@@ -27,4 +27,4 @@
 "Resistor","1","R139","8.2K","0603","603-RC0603JR-138K2L","https://mou.sr/46luQtP"
 "Resistor","3","R141, R142, R143","4.7K","0603","791-RMC1/16K4701FTP","https://mou.sr/46qHLKN"
 "Resistor","1","R140","470","0603","755-SFR03EZPJ471","https://mou.sr/3WkUL05"
-"IC","1","U20","LM393","SOIC","511-LM393DT","https://mou.sr/3yd6IwT"
+"Comparator IC","1","U20","LM393","SOIC","511-LM393DT","https://mou.sr/3yd6IwT"
