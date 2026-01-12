@@ -11,7 +11,7 @@
 "USB Port","1","J13","","","649-73725-01A0BLF","https://mou.sr/3rba3Zz"
 "Ferrite Bead","1","L54","120 Ohms, 4A, 30mOhms","1206","875-HI1206P121R-10","https://mou.sr/46vXDMo"
 "Ferrite Bead","2","L55, L57","120 Ohms, 3A, 30mOhms","0805","81-BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
-"Ferrite Bead","2","LP1 (Note: there are 4 sets of pads but we only need to bridge the top 2)","120 Ohms, 3A, 30mOhms","0805","81-BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
+"CMC","1","LP1 (Note: there are 4 sets of pads but we only need to bridge the top 2)","","1206","81-DLW31SN900SQ2L","https://mou.sr/49yIBY6"
 "Resistor","2","R188, R189","15K","0805","652-CR0805JW-153ELF","https://mou.sr/3YiDvLD"
 "Resistor","2","R182, R183","33","0805","755-SFR10EZPF33R0","https://mou.sr/3JLzkjt"
 "Resistor","1","R204","1M","0603","603-RC0603FR-071ML","https://mou.sr/3XqpfxW"
