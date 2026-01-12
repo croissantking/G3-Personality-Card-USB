@@ -9,7 +9,7 @@
 "Oscillator","1","G1/G2","48MHZ 5V","7 x 5mm","449-LFSPXO019884REEL","https://mou.sr/3Podjuu"
 "USB Port","1","J11","","","649-73725-01A0BLF","https://mou.sr/3rba3Zz"
 "Ferrite Bead","3","L18, L22, L24","120 Ohms, 3A, 30mOhms","0805","81-BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
-"Ferrite Bead","2","LP1 (Note: there are 4 sets of pads but we only need to bridge the top 2)","120 Ohms, 3A, 30mOhms","1206","81-DLW31SN900SQ2L","https://mou.sr/49yIBY6"
+"CMC","2","LP1 (Note: there are 4 sets of pads but we only need to bridge the top 2)","","1206","81-DLW31SN900SQ2L","https://mou.sr/49yIBY6"
 "Resistor","2","R5, R61","15K","0603","ASC0603-15KFT5","https://mou.sr/3Ps5TX4"
 "Resistor","2","R43, R50","33","0805","755-SFR10EZPF33R0","https://mou.sr/3JLzkjt"
 "Resistor","1","R62","1M","0603","603-RC0603FR-071ML","https://mou.sr/3XqpfxW"
