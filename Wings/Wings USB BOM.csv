@@ -13,7 +13,7 @@
 "Ferrite Bead","2","L55, L57","120 Ohms, 3A, 30mOhms","0805","BLM21PG121SN1D","https://mou.sr/3Xjtf2V"
 "CMC","1","LP1 (Note: there are 4 sets of pads but we only need to bridge the top 2)","","1206","DLW31SN900SQ2L","https://mou.sr/49yIBY6"
 "Resistor","2","R188, R189","15K","0805","CR0805-JW-153ELF","https://mou.sr/3YiDvLD"
-"Resistor","2","R182, R183","33","0805","SFR10EZPF33R0","https://mou.sr/3JLzkjt"
+"Resistor","2","R182, R183","33","0805","RC0805FR-0733RL","https://mou.sr/4zih0pg"
 "Resistor","1","R204","1M","0603","RC0603FR-071ML","https://mou.sr/3XqpfxW"
 "Resistor","3","R216, R217, R218","10K","0805","RC0805FR-0710KL","https://mou.sr/3CCjgfT"
 "Resistor","1","R194","680","0805","RC0805FR-13680RL","https://mou.sr/3DgQXYl"
