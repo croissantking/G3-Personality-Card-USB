@@ -1,4 +1,4 @@
-"Item","Qty","Reference(s)","Value","Size (Imperial)","Mfr P/N","URL"
+"Item","Qty","Reference(s)","Value","Size (Imperial)","Mfr P/N","Mouser URL"
 "Capacitor","16","C236, C237, C238, C239, C240, C241, C242, C243, C244, C245, C246, C247, C248, C249, C265, C272","0.1uF","0805","08055C104JAT2A","https://mou.sr/3LFR1Bc"
 "Capacitor","1","C286","0.1uF","0603","06035G104ZAT2A","https://mou.sr/44embap"
 "Capacitor","2","C252, C253","47pF","0603","06035A470JAT2A","https://mou.sr/3XnkNjh"
