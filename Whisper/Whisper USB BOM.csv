@@ -13,7 +13,7 @@
 "Resistor","3","R5, R61, R135","15K","0603","RC0603FR-0715KP","https://mou.sr/3WE0xeG"
 "Resistor","2","R43, R50","33","0805","RC0805FR-0733RL","https://mou.sr/4zih0pg"
 "Resistor","1","R62","1M","0603","RC0603FR-071ML","https://mou.sr/3XqpfxW"
-"Resistor","3","R146, R147, R148","10K","0603","AC0603JR-1310KL","https://mou.sr/42UXSNk"
+"Resistor","4","R146, R147, R148, OptiBodge","10K","0603","AC0603JR-1310KL","https://mou.sr/42UXSNk"
 "Resistor","1","R75","680","0805","RC0805FR-13680RL","https://mou.sr/3DgQXYl"
 "Resistor","1","R76","2K","0603","RC0603DR-072KL","https://mou.sr/4izl6Rp"
 "USB IC","1","U6","0670B-400 or 82C861","LQFP-100","",""
